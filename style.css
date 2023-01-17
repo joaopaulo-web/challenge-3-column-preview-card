@@ -134,6 +134,7 @@ font-family: 'Lexend Deca', sans-serif; p's */
     color: hsl(0, 0%, 95%);
     border: 2px solid white;
     box-sizing: border-box;
+    
 }
 .part-2 > button:hover{
     background-color: hsl(184, 100%, 22%);
